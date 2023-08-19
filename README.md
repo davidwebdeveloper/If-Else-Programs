@@ -1,1 +1,3 @@
-# If-Else-Programs
+# Finstein Training
+
+## If Else Programs
