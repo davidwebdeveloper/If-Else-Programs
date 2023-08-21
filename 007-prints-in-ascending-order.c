@@ -19,7 +19,7 @@ int main()
             small = number2;
             middle = number3;// Write a program that takes the three integer as input and prints them in asending order
 
-#include<stdio.h>
+
         }
     }
     else if(number2>number3 && number2>number1)
